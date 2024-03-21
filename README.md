@@ -7,4 +7,4 @@ Gymate provides a space for people to improve their physical fitness and overall
 » Tailwind CSS
 » React JS
 
-👉 Live Demo: Gymate Demo(https://gymate-iota.vercel.app/)
+👉 Live Demo: [Gymate Demo](https://gymate-iota.vercel.app/)
